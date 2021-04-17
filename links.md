@@ -1,5 +1,7 @@
 ## April 2021
 
+[How to Extract Locations from Text with Natural Language Processing](https://medium.com/spatial-data-science/how-to-extract-locations-from-text-with-natural-language-processing-9b77035b3ea4)
+
 [Amazon’s BERT Optimal Subset: 7.9x Faster & 6.3x Smaller Than BERT](https://medium.com/syncedreview/amazons-bert-optimal-subset-7-9x-faster-6-3x-smaller-than-bert-10323e4538e9)
 
 https://github.com/graykode/nlp-tutorial
