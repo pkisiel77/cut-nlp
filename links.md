@@ -5,3 +5,6 @@
 [Amazon’s BERT Optimal Subset: 7.9x Faster & 6.3x Smaller Than BERT](https://medium.com/syncedreview/amazons-bert-optimal-subset-7-9x-faster-6-3x-smaller-than-bert-10323e4538e9)
 
 https://github.com/graykode/nlp-tutorial
+
+[How we reduced our text similarity runtime by 99.96%](https://medium.com/data-science-at-microsoft/how-we-reduced-our-text-similarity-runtime-by-99-96-e8e4b4426b35)
+
