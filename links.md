@@ -1,5 +1,7 @@
 ## April 2021
 
+[Paper Explained- Vision Transformers (Bye Bye Convolutions?)](https://medium.com/analytics-vidhya/vision-transformers-bye-bye-convolutions-e929d022e4ab)
+
 [The Map of Artificial Intelligence (2020)](https://medium.com/swlh/the-map-of-artificial-intelligence-2020-2c4f446f4e43)
 
 [How to Extract Locations from Text with Natural Language Processing](https://medium.com/spatial-data-science/how-to-extract-locations-from-text-with-natural-language-processing-9b77035b3ea4)
