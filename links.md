@@ -1,5 +1,7 @@
 ## April 2021
 
+[Network graphs analysis (Part 2 of 2): Visualizing the characters of Hamilton as a social network](https://medium.com/data-science-at-microsoft/network-graphs-analysis-part-2-of-2-visualizing-the-characters-of-hamilton-as-a-social-network-ed61699df319)
+
 [Paper Explained- Vision Transformers (Bye Bye Convolutions?)](https://medium.com/analytics-vidhya/vision-transformers-bye-bye-convolutions-e929d022e4ab)
 
 [The Map of Artificial Intelligence (2020)](https://medium.com/swlh/the-map-of-artificial-intelligence-2020-2c4f446f4e43)
