@@ -1,5 +1,7 @@
 ## April 2021
 
+[Top 10 python libraries for data science](https://technologynous.com/top-10-python-libraries-for-data-science/)
+
 [Interpreting Semantic Text Similarity from Transformer Models](https://towardsdatascience.com/interpreting-semantic-text-similarity-from-transformer-models-ba1b08e6566c)
 
 [Network graphs analysis (Part 2 of 2): Visualizing the characters of Hamilton as a social network](https://medium.com/data-science-at-microsoft/network-graphs-analysis-part-2-of-2-visualizing-the-characters-of-hamilton-as-a-social-network-ed61699df319)
