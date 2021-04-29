@@ -1,5 +1,7 @@
 ## April 2021
 
+[Conversational Summarization with Natural Language Processing](https://medium.com/rocket-mortgage-technology-blog/conversational-summarization-with-natural-language-processing-c073a6bcaa3a)
+
 [Introducing NLPretext, a unified framework to facilitate text preprocessing](https://medium.com/artefact-engineering-and-data-science/introducing-nlpretext-a8bb7c03df89)
 [Top 10 python libraries for data science](https://technologynous.com/top-10-python-libraries-for-data-science/)
 
