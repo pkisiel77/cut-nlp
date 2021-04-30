@@ -1,3 +1,6 @@
+## May 2021
+[Magiczny składnik Spotify: uczenie maszynowe](https://ichi.pro/pl/magiczny-skladnik-spotify-uczenie-maszynowe-200864210668035)
+
 ## April 2021
 
 [Conversational Summarization with Natural Language Processing](https://medium.com/rocket-mortgage-technology-blog/conversational-summarization-with-natural-language-processing-c073a6bcaa3a)
