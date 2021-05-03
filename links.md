@@ -1,4 +1,6 @@
 ## May 2021
+[Top 14 NLP Job-Ready Skills for 2021](https://medium.com/@ODSC/top-14-nlp-job-ready-skills-for-2021-84325af56636)
+
 [Magiczny składnik Spotify: uczenie maszynowe](https://ichi.pro/pl/magiczny-skladnik-spotify-uczenie-maszynowe-200864210668035)
 
 [Microsoft DeBERTa Tops Human Performance on SuperGLUE NLU Benchmark](https://medium.com/syncedreview/microsoft-deberta-tops-human-performance-on-superglue-nlu-benchmark-be590e63299f)
