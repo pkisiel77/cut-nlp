@@ -1,7 +1,7 @@
 # Semeter letni 2021
 
 Wykonanie zadań wg poniższych zasad: 
-- zadanie 1 i 2 = 3.0
+- zadanie 1, 2 = 3.0
 - zadanie 1, 2, 3 = 4.0
 - zadanie 1, 2, 3, 4 = 5.0
 
