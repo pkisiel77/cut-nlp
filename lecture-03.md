@@ -14,8 +14,6 @@ Języki syntetyczne – języki, w których formy gramatyczne tworzone są za po
 ```py
 import numpy as np
 
-
-
 def levenshtein(seq1, seq2):
     size_x = len(seq1) + 1
     size_y = len(seq2) + 1
@@ -42,9 +40,21 @@ def levenshtein(seq1, seq2):
     print (matrix)
     return (matrix[size_x - 1, size_y - 1])
 
-levenshtein('ala ma kota', 'kot ma alę')
-
+levenshtein('ala ma kota', 'ola ma psa')
 ```
+[[ 0.  1.  2.  3.  4.  5.  6.  7.  8.  9. 10.]
+ [ 1.  1.  2.  2.  3.  4.  5.  6.  7.  8.  9.]
+ [ 2.  2.  1.  2.  3.  4.  5.  6.  7.  8.  9.]
+ [ 3.  3.  2.  1.  2.  3.  4.  5.  6.  7.  8.]
+ [ 4.  4.  3.  2.  1.  2.  3.  4.  5.  6.  7.]
+ [ 5.  5.  4.  3.  2.  1.  2.  3.  4.  5.  6.]
+ [ 6.  6.  5.  4.  3.  2.  1.  2.  3.  4.  5.]
+ [ 7.  7.  6.  5.  4.  3.  2.  1.  2.  3.  4.]
+ [ 8.  8.  7.  6.  5.  4.  3.  2.  2.  3.  4.]
+ [ 9.  8.  8.  7.  6.  5.  4.  3.  3.  3.  4.]
+ [10.  9.  9.  8.  7.  6.  5.  4.  4.  4.  4.]
+ [11. 10. 10.  9.  8.  7.  6.  5.  5.  5.  4.]]
+4.0
 
 https://pypi.org/project/python-Levenshtein/0.12.0/
 
