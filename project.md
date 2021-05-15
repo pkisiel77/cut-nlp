@@ -26,7 +26,7 @@
 Do zadania nr 1 należy dodać NLU
 - [spaCy](https://spacy.io/)
 
-Uzupełnić dokumentację
+**Uzupełnić dokumentację**
 
 
 ## Zadanie 3. STT NLU TTS
@@ -35,7 +35,7 @@ Do zadania nr 2 należy dodać obsługę:
 - Speech To Text (https://deepspeech.readthedocs.io/en/r0.9/)
 - Text To Speech np. [pypi.org](https://pypi.org/project/pyttsx3/)
 
-Uzupełnić dokumentację
+**Uzupełnić dokumentację**
 
 ### Do wyboru 4.1 lub 4.2
 
@@ -45,10 +45,10 @@ Do wyboru:
 - dokumenty medyczne
 - lub dokumenty sądowe
 
-Uzupełnić dokumentację
+**Uzupełnić dokumentację**
 
 ## Zadanie 4.2. Automatyczne generowanie dokumentów GTP 3
 
 [GTP 3](https://gpt3examples.com/)
 
-Uzupełnić dokumentację
+**Uzupełnić dokumentację**
