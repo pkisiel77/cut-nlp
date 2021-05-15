@@ -1,9 +1,10 @@
 # Semeter letni 2021
 
-Ocena końcowa z przedmiotu = Ocena z wykonanych prjektów plus końcowowa rozmowa w której poprozmawiamy o wykonanych zadaniach(1-4)
+Wykonanie zadań wg poniższych zasad: 
+- zadanie 1 i 2 = 3.0
+- zadanie 1, 2, 3 = 4.0
+- zadanie 1, 2, 3, 4 = 5.0
 
-Zadanie 1 i 2  = 3.0
-Zadanie 1, 2, 3 = 4.0
-Zadanie 1, 2, 3, 4 = 5.0
+Ocena końcowa = Ocena z wykonanych zadań (wg powyższych kryteriów) plus końcowa rozmowa, w której porozmawiamy o wykonanych zadaniach.
 
-
+W razie pytań proszę o kontakt na teams.
