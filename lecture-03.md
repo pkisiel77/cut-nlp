@@ -10,7 +10,19 @@ Języki syntetyczne – języki, w których formy gramatyczne tworzone są za po
 
 ## Algorytmy tekstowe
 
+### Levenshtein
 
+https://pypi.org/project/python-Levenshtein/0.12.0/
+
+plus all algs for python
+
+### Linki zew.
+
+[wikipedia](https://pl.wikipedia.org/wiki/Odleg%C5%82o%C5%9B%C4%87_Levenshteina)
+
+[algorytm](http://www.algorytm.org/przetwarzanie-tekstu/odleglosc-levenshteina-odleglosc-edycyjna.html)
+
+[kod](https://stackabuse.com/levenshtein-distance-and-text-similarity-in-python/)
 ```py
 import numpy as np
 
@@ -60,7 +72,7 @@ levenshtein('ala ma kota', 'ola ma psa')
 ```
 
 
-https://pypi.org/project/python-Levenshtein/0.12.0/
+
 
 
 
