@@ -30,15 +30,17 @@ Do zadania nr 1 należy dodać NLU
 
 Do zadania nr 2 należy dodać obsługę:
 - Speech To Text (https://deepspeech.readthedocs.io/en/r0.9/)
-- Text To Speech (np. [pypi.org](https://pypi.org/project/pyttsx3/)
-
+- Text To Speech np. [pypi.org](https://pypi.org/project/pyttsx3/)
 
 ### Do wyboru
 
-### Anonimizacja poufnych dokumentów
+## Zadanie 4.Anonimizacja poufnych dokumentów
+
 Do wyboru:
 - dokumenty medyczne
-- dokumenty sądowe
+- lub dokumenty sądowe
 
 
-### Automatyczne generowanie dokumentów GTP 3
+## Zadanie 4. Automatyczne generowanie dokumentów GTP 3
+
+[GTP 3](https://gpt3examples.com/)
