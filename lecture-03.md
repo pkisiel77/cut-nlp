@@ -1,19 +1,12 @@
 # Wykład 3 (16.05.2021)
 
-## Analiza fleksyjna
-
-Polszczyzna należy do języków o bogatej odmianie wyrazów1. Słownik języ- ka polskiego notujący 200 000 haseł można uznać za obszerny. Hasłom takiego słownika odpowiada jednak kilka milionów różnych realizacji pojawiających się w tekstach. 
-
-
-Języki syntetyczne – języki, w których formy gramatyczne tworzone są za pomocą afiksów i funkcjonują w charakterze pojedynczego słowa[1]. Należą do nich języki fleksyjne, aglutynacyjne i polisyntetyczne[2]; ich przeciwieństwem są języki analityczne[1].
-
-
 ## Algorytmy tekstowe
 
 ### Wyszukaj 
 
 ### Porównaj
 
+https://pypi.org/project/textdistance/
 
 #### Levenshtein
 
@@ -72,6 +65,10 @@ levenshtein('ala ma kota', 'ola ma psa')
 
 4.0
 ```
+
+## Literatura
+
+
 
 
 
