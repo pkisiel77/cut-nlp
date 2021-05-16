@@ -37,7 +37,7 @@ Do zadania nr 2 należy dodać obsługę:
 
 **Uzupełnić dokumentację**
 
-### Do wyboru 4.1 lub 4.2
+### Do wyboru 4.1 lub 4.2 lub 4.3
 
 ## Zadanie 4.1. Anonimizacja poufnych dokumentów
 
@@ -47,8 +47,15 @@ Do wyboru:
 
 **Uzupełnić dokumentację**
 
-## Zadanie 4.2. Automatyczne generowanie dokumentów GTP 3
+## Zadanie 4.2. Automatyczne generowanie dokumentów GPT 3
 
-[GTP 3](https://gpt3examples.com/)
+[GPT 3](https://gpt3examples.com/)
 
 **Uzupełnić dokumentację**
+
+## Zadanie 4.3 
+
+Wykrywanie części mowy (czasownik, rzeczownik, przymiotnk) w zdaniu dla języka polskiego i angielskiego
+
+**Uzupełnić dokumentację**
+
