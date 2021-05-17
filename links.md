@@ -1,5 +1,7 @@
 ## May 2021
 
+[Custom Named Entity Recognition (NER)](https://medium.com/product-ai/custom-named-entity-recognition-ner-329e73cf909b)
+
 [9 Distance Measures in Data Science](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
 
 [Top 14 NLP Job-Ready Skills for 2021](https://medium.com/@ODSC/top-14-nlp-job-ready-skills-for-2021-84325af56636)
