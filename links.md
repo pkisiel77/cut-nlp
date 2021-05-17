@@ -1,4 +1,7 @@
 ## May 2021
+
+[9 Distance Measures in Data Science](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
+
 [Top 14 NLP Job-Ready Skills for 2021](https://medium.com/@ODSC/top-14-nlp-job-ready-skills-for-2021-84325af56636)
 
 [Magiczny składnik Spotify: uczenie maszynowe](https://ichi.pro/pl/magiczny-skladnik-spotify-uczenie-maszynowe-200864210668035)
