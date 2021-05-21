@@ -1,14 +1,11 @@
-## Dzielenie danych tekstowych na porcje (chunks)
+## Dzielenie danych tekstowych na porcje (ang. chunks)
 
-W celu dalszej analizy dane tekstowe zwykle trzeba podzielić na części. Ten proces jest nazywany fragmentacją.
+W celu dalszej analizy dane tekstowe zwykle trzeba podzielić na części. Ten proces jest nazywany fragmentacją ang. chunking).
 Jest to często używane w analizie tekstu.
 Warunki, które są używane do podzielenia tekstu na fragmenty, mogą się różnić w zależności od problemu.
 To nie to samo, co tokenizacja, w której tekst jest również dzielony na części.
-
 Podczas dzielenia na fragmenty nie stosujemy się do żadnych ograniczeń, z wyjątkiem faktu, że fragmenty wyjściowe muszą mieć znaczenie.
-
 Kiedy mamy do czynienia z dużymi dokumentami tekstowymi, ważne staje się podzielenie tekstu na fragmenty, aby wydobyć znaczące informacje.
-
 W tej sekcji zobaczymy, jak podzielić tekst wejściowy na kilka części.
 
 
