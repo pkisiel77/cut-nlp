@@ -1,5 +1,7 @@
 ## May 2021
 
+[The NLP Cypher | 05.09.21](https://pub.towardsai.net/the-nlp-cypher-05-09-21-12c474a6cdd8)
+
 [Custom Named Entity Recognition (NER)](https://medium.com/product-ai/custom-named-entity-recognition-ner-329e73cf909b)
 
 [9 Distance Measures in Data Science](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
