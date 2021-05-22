@@ -1,36 +1,32 @@
 ## Stopwords
 
-
-## Biblioteka Spacy
-
-
-
-
-
-
-
-## Dzielenie danych tekstowych na porcje (ang. chunks)
-
-W celu dalszej analizy dane tekstowe zwykle trzeba podzielić na części. Ten proces jest nazywany fragmentacją ang. chunking).
-Jest to często używane w analizie tekstu.
-Warunki, które są używane do podzielenia tekstu na fragmenty, mogą się różnić w zależności od problemu.
-To nie to samo, co tokenizacja, w której tekst jest również dzielony na części.
-Podczas dzielenia na fragmenty nie stosujemy się do żadnych ograniczeń, z wyjątkiem faktu, że fragmenty wyjściowe muszą mieć znaczenie.
-Kiedy mamy do czynienia z dużymi dokumentami tekstowymi, ważne staje się podzielenie tekstu na fragmenty, aby wydobyć znaczące informacje.
-W tej sekcji zobaczymy, jak podzielić tekst wejściowy na kilka części.
-
-
-```py
-import numpy as np
-from nltk.corpus import brown
-
-# Split the input text into chunks, where
-# each chunk contains N words
-def chunker(input_data, N):
-    input_words = input_data.split(' ')
-
+Słowa które nie dodają zbyt wiele do znaczenia samego zdania. Można je bezpiecznie zignorować bez zmiany znaczenia zdania.
+Stopwords nie wpływa na znaczenie zdania.
 
 ```
+Stop lista (ang. stop word) – lista słów odrzucanych przez wyszukiwarki internetowe w celu zredukowania wielkości zbiorów.
+
+Są to słowa o małym znaczeniu (spójniki: i, oraz, lub) oraz słowa popularne (mp3, sex), czyli niewpływające na identyfikację dokumentu. Listy takie można utworzyć dla określonej dziedziny lub dla określonego języka. Istnieją stop-listy dla języka angielskiego, zawierające ok. 450 słów.
+
+Usuwanie wyrazów nieznaczących z tekstu może się odbywać w następujący sposób:
+
+słownikowy – z tekstu usuwane są wyrazy wymienione w specjalnym słowniku,
+statystyczny – z tekstu usuwane są wyrazy, których częstość występowania znajduje się w założonym przedziale,
+hybrydowy – połączenie powyższych technik.[1]
+```
+
+
+## Bag-of-words
+
+
+
+# Literatura
+[1] https://pl.wikipedia.org/wiki/Stop_lista_(wyszukiwarki)
+
+
+
+
+
 
 
 
