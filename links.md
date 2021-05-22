@@ -1,5 +1,7 @@
 ## May 2021
 
+[Get started with Google Trax for NLP](https://towardsdatascience.com/get-started-with-google-trax-for-nlp-ff8dcd3119cf)
+
 [The NLP Cypher | 05.09.21](https://pub.towardsai.net/the-nlp-cypher-05-09-21-12c474a6cdd8)
 
 [Custom Named Entity Recognition (NER)](https://medium.com/product-ai/custom-named-entity-recognition-ner-329e73cf909b)
