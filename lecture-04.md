@@ -213,6 +213,23 @@ en_stopwords
  "wouldn't"]
 ```
 
+```
+example_text_en = "This is just an example of a text " \
+                  "with some of the meaningless words."
+example_text_en
+```
+
+```
+non_stopwords_en = [
+    word 
+    for word in nltk.word_tokenize(example_text_en) 
+    if word.lower() not in en_stopwords
+]
+non_stopwords_en
+```
+
+
+
 
 
 
