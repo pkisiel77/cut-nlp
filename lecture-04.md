@@ -369,9 +369,7 @@ Successfully installed stop-words-2018.7.23
 ```
 
 
-
-
-
+### Stopwords for english
 
 ```
 import nltk
@@ -401,6 +399,23 @@ non_stopwords_en = [
 ]
 non_stopwords_en
 ```
+
+## Korekta gramatyczna
+
+Zadanie
+```
+Podzielić tekst na wyrazy i poszukac ich w słowniku, jeżeli słowo nie istanieje w słowniku to należy sprawdzić które ze słów jest najbliższe.
+```
+```
+incorrect_text = """
+To jest teskt z blendami literuwkami i bledami ortgrafcznymi. 
+Bendziemy mogli sprubowacc jak metoda oparta o odleglosc 
+pozwoli nam je naprawić.
+"""
+
+
+```
+
 
 
 
