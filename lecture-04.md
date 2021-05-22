@@ -212,14 +212,174 @@ en_stopwords
  'wouldn',
  "wouldn't"]
 ```
+### Polish
+```
+from stop_words import get_stop_words
+pl_stopwords = get_stop_words("pl")
+pl_stopwords
+```
+```
+Collecting stop_words
+  Downloading https://files.pythonhosted.org/packages/1c/cb/d58290804b7a4c5daa42abbbe2a93c477ae53e45541b1825e86f0dfaaf63/stop-words-2018.7.23.tar.gz
+Building wheels for collected packages: stop-words
+  Building wheel for stop-words (setup.py) ... done
+  Created wheel for stop-words: filename=stop_words-2018.7.23-cp37-none-any.whl size=32917 sha256=c658580fabaf0516f63b4ba03cb99a8c4f3c444401dd4f578ffdc93f866d5cac
+  Stored in directory: /root/.cache/pip/wheels/75/37/6a/2b295e03bd07290f0da95c3adb9a74ba95fbc333aa8b0c7c78
+Successfully built stop-words
+Installing collected packages: stop-words
+Successfully installed stop-words-2018.7.23
+['ach',
+ 'aj',
+ 'albo',
+ 'bardzo',
+ 'bez',
+ 'bo',
+ 'być',
+ 'ci',
+ 'cię',
+ 'ciebie',
+ 'co',
+ 'czy',
+ 'daleko',
+ 'dla',
+ 'dlaczego',
+ 'dlatego',
+ 'do',
+ 'dobrze',
+ 'dokąd',
+ 'dość',
+ 'dużo',
+ 'dwa',
+ 'dwaj',
+ 'dwie',
+ 'dwoje',
+ 'dziś',
+ 'dzisiaj',
+ 'gdyby',
+ 'gdzie',
+ 'go',
+ 'ich',
+ 'ile',
+ 'im',
+ 'inny',
+ 'ja',
+ 'ją',
+ 'jak',
+ 'jakby',
+ 'jaki',
+ 'je',
+ 'jeden',
+ 'jedna',
+ 'jedno',
+ 'jego',
+ 'jej',
+ 'jemu',
+ 'jeśli',
+ 'jest',
+ 'jestem',
+ 'jeżeli',
+ 'już',
+ 'każdy',
+ 'kiedy',
+ 'kierunku',
+ 'kto',
+ 'ku',
+ 'lub',
+ 'ma',
+ 'mają',
+ 'mam',
+ 'mi',
+ 'mną',
+ 'mnie',
+ 'moi',
+ 'mój',
+ 'moja',
+ 'moje',
+ 'może',
+ 'mu',
+ 'my',
+ 'na',
+ 'nam',
+ 'nami',
+ 'nas',
+ 'nasi',
+ 'nasz',
+ 'nasza',
+ 'nasze',
+ 'natychmiast',
+ 'nią',
+ 'nic',
+ 'nich',
+ 'nie',
+ 'niego',
+ 'niej',
+ 'niemu',
+ 'nigdy',
+ 'nim',
+ 'nimi',
+ 'niż',
+ 'obok',
+ 'od',
+ 'około',
+ 'on',
+ 'ona',
+ 'one',
+ 'oni',
+ 'ono',
+ 'owszem',
+ 'po',
+ 'pod',
+ 'ponieważ',
+ 'przed',
+ 'przedtem',
+ 'są',
+ 'sam',
+ 'sama',
+ 'się',
+ 'skąd',
+ 'tak',
+ 'taki',
+ 'tam',
+ 'ten',
+ 'to',
+ 'tobą',
+ 'tobie',
+ 'tu',
+ 'tutaj',
+ 'twoi',
+ 'twój',
+ 'twoja',
+ 'twoje',
+ 'ty',
+ 'wam',
+ 'wami',
+ 'was',
+ 'wasi',
+ 'wasz',
+ 'wasza',
+ 'wasze',
+ 'we',
+ 'więc',
+ 'wszystko',
+ 'wtedy',
+ 'wy',
+ 'żaden',
+ 'zawsze',
+ 'że']
+```
+
+
+
+
+
 
 ```
+import nltk
+nltk.download('punkt')
 example_text_en = "This is just an example of a text " \
                   "with some of the meaningless words."
 example_text_en
-```
 
-```
 non_stopwords_en = [
     word 
     for word in nltk.word_tokenize(example_text_en) 
@@ -227,7 +387,20 @@ non_stopwords_en = [
 ]
 non_stopwords_en
 ```
+```
+import nltk
+nltk.download('punkt')
+example_text_en = "This is just an example of a text " \
+                  "with some of the meaningless words."
+example_text_en
 
+non_stopwords_en = [
+    word 
+    for word in nltk.word_tokenize(example_text_en) 
+    if word.lower() not in en_stopwords
+]
+non_stopwords_en
+```
 
 
 
