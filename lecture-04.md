@@ -1,7 +1,7 @@
 ## Stopwords
 
 Słowa które nie dodają zbyt wiele do znaczenia samego zdania. Można je bezpiecznie zignorować bez zmiany znaczenia zdania.
-Stopwords nie wpływa na znaczenie zdania.
+Stopwords nie wpływa na znaczenie zdania. Na tym etapie w zdaniu zostawiamy tylko i wyłączenie słowa które mają znaczenie.
 
 ```
 Stop lista (ang. stop word) – lista słów odrzucanych przez wyszukiwarki internetowe w celu zredukowania wielkości zbiorów.
@@ -15,8 +15,12 @@ statystyczny – z tekstu usuwane są wyrazy, których częstość występowania
 hybrydowy – połączenie powyższych technik.[1]
 ```
 
+Usuwanie polega najczęściej na wykorzystaniu gotowych list słów - i taka listę dostarcza również biblioteka NLTK.
+[Przykład 1](https://github.com/bieli/stopwords/blob/master/polish.stopwords.txt)
 
-## Bag-of-words
+
+
+
 
 
 
