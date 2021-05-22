@@ -1,3 +1,14 @@
+## Stopwords
+
+
+## Biblioteka Spacy
+
+
+
+
+
+
+
 ## Dzielenie danych tekstowych na porcje (ang. chunks)
 
 W celu dalszej analizy dane tekstowe zwykle trzeba podzielić na części. Ten proces jest nazywany fragmentacją ang. chunking).
