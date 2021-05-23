@@ -7,11 +7,45 @@
 ## Tokenization
 
 ```py
-sentence = "The capital of China is Beijing
+sentence = "The capital of Poland is Warsaw"
 sentence.split()
 
-['The', 'capital', 'of', 'China', 'is', 'Beijing']
+['The', 'capital', 'of', 'Poland', 'is', 'Warsaw']
 ```
+### Issues with tokenization
+
+## Different types of tokenizers
+
+### Regular expressions
+
+### Regular expressions-based tokenizers
+
+### Treebank tokenizer
+
+### TweetTokenizer
+
+## Understanding word normalization
+
+### Stemming
+
+#### Over-stemming and under-stemming
+
+## Lemmatization
+
+### WordNet lemmatizer
+
+### Spacy lemmatizer
+
+## Stopword removal
+
+### Case folding
+
+## N-grams
+
+
+
+
+
 
 
 ## Algorytmy tekstowe
