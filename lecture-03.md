@@ -4,6 +4,14 @@
 
 ![image](https://user-images.githubusercontent.com/26519123/119262826-e7bc2b00-bbdc-11eb-8f22-142658400fd3.png)
 
+## Tokenization
+
+```py
+sentence = "The capital of China is Beijing
+sentence.split()
+
+['The', 'capital', 'of', 'China', 'is', 'Beijing']
+```
 
 
 ## Algorytmy tekstowe
