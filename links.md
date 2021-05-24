@@ -1,3 +1,9 @@
+## Before use tf on the server please check
+
+```
+grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detected
+```
+
 ## May 2021
 
 [Get started with Google Trax for NLP](https://towardsdatascience.com/get-started-with-google-trax-for-nlp-ff8dcd3119cf)
