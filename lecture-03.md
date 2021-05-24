@@ -1,5 +1,11 @@
 # Wykład 3 (16.05.2021)
 
+## HTML
+
+## PDF
+
+## WORD (open xml)
+
 ## Przygotowanie tekstu do dlaszej obróbki
 
 ![image](https://user-images.githubusercontent.com/26519123/119262826-e7bc2b00-bbdc-11eb-8f22-142658400fd3.png)
