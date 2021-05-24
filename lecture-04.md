@@ -413,11 +413,18 @@ Bendziemy mogli sprubowacc jak metoda oparta o odleglosc
 pozwoli nam je naprawić.
 """
 
-
 ```
 
+## [spacy](https://spacy.io)
 
-
+```
+python -m venv .env
+source .env/bin/activate
+pip install -U pip setuptools wheel
+pip install -U spacy
+python -m spacy download en_core_web_trf
+python -m spacy download pl_core_news_lg
+```
 
 
 
