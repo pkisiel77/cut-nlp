@@ -432,7 +432,7 @@ python -m spacy download pl_core_news_lg
 
 
 
-# Literatura
+# Żródło
 [1] https://pl.wikipedia.org/wiki/Stop_lista_(wyszukiwarki)
 
 
