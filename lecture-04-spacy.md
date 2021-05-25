@@ -9,6 +9,7 @@ Rysunek 1. Źródło [[1]](https://spacy.io/usage/processing-pipelines)
 - [Tagger](https://spacy.io/api/tagger)
 - [Parser](https://spacy.io/api/dependencyparser)
 - [Entity Recognizer](https://spacy.io/api/entityrecognizer)
+- Named Entity Recognizer
 - [Lemmatizer](https://spacy.io/api/lemmatizer)
 - [Text Categorizer](https://spacy.io/api/textcategorizer)
 - [Custom Components](https://spacy.io/usage/processing-pipelines#custom-components)
