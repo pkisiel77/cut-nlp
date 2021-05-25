@@ -13,6 +13,11 @@ Rysunek 1. Źródło [[1]](https://spacy.io/usage/processing-pipelines)
 - [Text Categorizer](https://spacy.io/api/textcategorizer)
 - [Custom Components](https://spacy.io/usage/processing-pipelines#custom-components)
 
+### Config
+```
+[nlp]
+pipeline = ["tok2vec", "tagger", "parser", "ner"]
+```
 
 ## Other example projects
 
