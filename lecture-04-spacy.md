@@ -8,10 +8,10 @@ Rysunek 1. Źródło [[1]](https://spacy.io/usage/processing-pipelines)
 - [Tokenizer](https://spacy.io/api/tokenizer)
 - [Tagger](https://spacy.io/api/tagger)
 - [Parser](https://spacy.io/api/dependencyparser)
-- [entityrecognizer](https://spacy.io/api/entityrecognizer)
-- [lemmatizer](https://spacy.io/api/lemmatizer)
-- [textcategorizer](https://spacy.io/api/textcategorizer)
-- [custom-components](https://spacy.io/usage/processing-pipelines#custom-components)
+- [Entity Recognizer](https://spacy.io/api/entityrecognizer)
+- [Lemmatizer](https://spacy.io/api/lemmatizer)
+- [Text Categorizer](https://spacy.io/api/textcategorizer)
+- [Custom Components](https://spacy.io/usage/processing-pipelines#custom-components)
 
 
 ## Other example projects
