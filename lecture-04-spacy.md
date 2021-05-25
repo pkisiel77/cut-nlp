@@ -5,6 +5,8 @@ Kiedy wywołujesz nlp w tekście, spaCy najpierw **tokenizuje** tekst, aby utwor
 ![image](https://user-images.githubusercontent.com/26519123/119462186-bbb9ba80-bd40-11eb-8beb-11427504d379.png)
 Rysunek 1. Źródło [[1]](https://spacy.io/usage/processing-pipelines)
 
+Etap 1 - [Tokenizer](https://spacy.io/api/tokenizer)
+Etap 2 - [Tagger](https://spacy.io/api/tagger)
 
 
 ## Other example projects
