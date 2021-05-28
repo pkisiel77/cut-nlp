@@ -25,6 +25,7 @@ pipeline = ["tok2vec", "tagger", "parser", "ner"]
 
 ## Sentences
 https://github.com/explosion/spaCy/issues/6382
+https://medium.com/@ashiqgiga07/rule-based-matching-with-spacy-295b76ca2b68
 
 ## Other example projects
 
