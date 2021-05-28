@@ -69,6 +69,11 @@ ner.update(doc_list, gold_list)
 
 ## Sentences
 https://github.com/explosion/spaCy/issues/6382
+
+https://medium.com/@ashiqgiga07/rule-based-matching-with-spacy-295b76ca2b68
+
+https://betterprogramming.pub/the-beginners-guide-to-similarity-matching-using-spacy-782fc2922f7c
+
 https://medium.com/@ashiqgiga07/rule-based-matching-with-spacy-295b76ca2b68
 
 ## Other example projects
