@@ -20,6 +20,12 @@ Rysunek 1. Źródło [[1]](https://spacy.io/usage/processing-pipelines)
 pipeline = ["tok2vec", "tagger", "parser", "ner"]
 ```
 
+
+## NER
+
+## Sentences
+https://github.com/explosion/spaCy/issues/6382
+
 ## Other example projects
 
 https://github.com/explosion/projects/tree/v3/tutorials
