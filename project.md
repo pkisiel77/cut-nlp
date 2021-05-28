@@ -35,9 +35,12 @@ Do zadania nr 2 należy dodać obsługę:
 - Speech To Text (https://deepspeech.readthedocs.io/en/r0.9/)
 - Text To Speech np. [pypi.org](https://pypi.org/project/pyttsx3/)
 
+![image](https://user-images.githubusercontent.com/26519123/119981156-9a193700-bfbd-11eb-9c8c-da497da75b84.png)
+[source](https://chaitanyaakale.medium.com/how-to-build-your-own-ai-powered-voice-assistant-166445db9cab)
+
 **Uzupełnić dokumentację**
 
-### Do wyboru 4.1 lub 4.2 lub 4.3
+### (Do wyboru 4.1 lub 4.2 lub 4.3)
 
 ## Zadanie 4.1. Anonimizacja poufnych dokumentów
 
