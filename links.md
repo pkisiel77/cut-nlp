@@ -1,3 +1,5 @@
+# NLP, NLU, STT, TTS
+
 ## Before use tf on the server please check
 
 ```
@@ -5,6 +7,11 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 ```
 
 ## May 2021
+
+### Voice
+[Giving a Voice to Rasa with Botium Speech](https://floriantreml.medium.com/giving-a-voice-to-rasa-with-botium-speech-1c65a7513bdf)
+
+### NLP
 [NKJP](http://nkjp.pl/index.php?page=14&lang=0)
 
 [Get started with Google Trax for NLP](https://towardsdatascience.com/get-started-with-google-trax-for-nlp-ff8dcd3119cf)
