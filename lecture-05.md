@@ -80,6 +80,19 @@ Proszę przejrzeć dokumentację dla [TextBlob - Sentiment Analysis](https://tex
 
 # 3. NER
 
+Na stronie spacy.io jest wygodne rozwiązanie dla rozszerzania modelu encji [ExcelCy](https://spacy.io/universe/project/excelcy) 
+```
+from excelcy import ExcelCy
+# collect sentences, annotate Entities and train NER using spaCy
+excelcy = ExcelCy.execute(file_path='https://github.com/kororo/excelcy/raw/master/tests/data/test_data_01.xlsx')
+# use the nlp object as per spaCy API
+doc = excelcy.nlp('Google rebrands its business apps')
+# or save it for faster bootstrap for application
+excelcy.nlp.to_disk('/model')
+```
+Plus obrzerne wyjaśnienie [github excelcy](https://github.com/kororo/excelcy)
+
+
 # Literatura
 [1] https://mfiles.pl/pl/index.php/Analiza_sentymentu
 
