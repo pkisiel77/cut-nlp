@@ -102,8 +102,12 @@ print(french_fries, "<->", burgers, french_fries.similarity(burgers))
 
 ### [Example](https://betterprogramming.pub/the-beginners-guide-to-similarity-matching-using-spacy-782fc2922f7c) 
 
-![image](https://user-images.githubusercontent.com/26519123/120114949-d85f5380-c181-11eb-8c5d-fd269e3c2982.png)
-
+```py
+def calculate_similarity(text1, text2):
+    base = nlp(process_text(text1))
+    compare = nlp(process_text(text2))
+    return base.similarity(compare)
+```
 
 # 3. NER
 
