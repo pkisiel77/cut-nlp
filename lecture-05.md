@@ -33,7 +33,7 @@ s4 = {'neg': 0.0, 'neu': 0.417, 'pos': 0.583, 'compound': 0.6369}
 - metryka **neu** prawdopodobieństwo przynależności do klasy **neutralnej**
 - metryka **pos** prawdopodobieństwo przynależności do klasy **pozytywnej**
 
-Definicja **compound**
+### Definicja **compound**
 ```
 if sentiment_dict['compound'] >= 0.05 :
     print("Positive")
