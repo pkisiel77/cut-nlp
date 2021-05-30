@@ -96,5 +96,5 @@ Plus obszerne wyjaśnienie oraz źródła projektu  [github excelcy](https://git
 # Literatura
 [1] https://mfiles.pl/pl/index.php/Analiza_sentymentu
 
-[2] geeksforgeeks.org/python-sentiment-analysis-using-vader
+[2] https://geeksforgeeks.org/python-sentiment-analysis-using-vader
 
