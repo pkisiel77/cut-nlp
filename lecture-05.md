@@ -33,6 +33,19 @@ s4 = {'neg': 0.0, 'neu': 0.417, 'pos': 0.583, 'compound': 0.6369}
 - metryka **neu** prawdopodobieństwo przynależności do klasy **neutralnej**
 - metryka **pos** prawdopodobieństwo przynależności do klasy **pozytywnej**
 
+Definicja **compound**
+```
+    # decide sentiment as positive, negative and neutral
+    if sentiment_dict['compound'] >= 0.05 :
+        print("Positive")
+  
+    elif sentiment_dict['compound'] <= - 0.05 :
+        print("Negative")
+  
+    else :
+        print("Neutral")
+```
+
 ### Links
 [NLTK sentiments](https://www.nltk.org/howto/sentiment.html)
 
