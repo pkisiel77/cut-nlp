@@ -76,7 +76,30 @@ Proszę przejrzeć dokumentację dla [TextBlob - Sentiment Analysis](https://tex
 
 
 
-# 2. INTENTS
+# 2. spacy similarity
+
+Obliczanie wyników podobieństwa może być pomocne w wielu sytuacjach, ale ważne jest również, aby zachować realistyczne oczekiwania co do tego, jakie informacje mogą dostarczyć. Słowa mogą być ze sobą powiązane na wiele sposobów, więc pojedynczy wynik "podobieństwa" zawsze będzie mieszanką różnych sygnałów, a wektory trenowane na różnych danych mogą dawać bardzo różne wyniki, które mogą nie być przydatne w realizowanym projekcie.
+Dlatego przy wykrywaniu intencji należy przyjąć określone ograniczenia.
+
+```py
+import spacy
+
+nlp = spacy.load("en_core_web_md")  # make sure to use larger package!
+doc1 = nlp("I like salty fries and hamburgers.")
+doc2 = nlp("Fast food tastes very good.")
+
+# Similarity of two documents
+print(doc1, "<->", doc2, doc1.similarity(doc2))
+# Similarity of tokens and spans
+french_fries = doc1[2:4]
+burgers = doc1[5]
+print(french_fries, "<->", burgers, french_fries.similarity(burgers))
+```
+```
+###  I like salty fries and hamburgers. <-> Fast food tastes very good. 0.24146281347644855
+###  salty fries <-> hamburgers 0.45291108
+```
+
 
 # 3. NER
 
@@ -97,4 +120,5 @@ Plus obszerne wyjaśnienie oraz źródła projektu  [github excelcy](https://git
 [1] https://mfiles.pl/pl/index.php/Analiza_sentymentu
 
 [2] https://geeksforgeeks.org/python-sentiment-analysis-using-vader
+ 
 
