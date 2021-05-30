@@ -100,6 +100,10 @@ print(french_fries, "<->", burgers, french_fries.similarity(burgers))
 ###  salty fries <-> hamburgers 0.45291108
 ```
 
+### [Example](https://betterprogramming.pub/the-beginners-guide-to-similarity-matching-using-spacy-782fc2922f7c) 
+
+![image](https://user-images.githubusercontent.com/26519123/120114949-d85f5380-c181-11eb-8c5d-fd269e3c2982.png)
+
 
 # 3. NER
 
