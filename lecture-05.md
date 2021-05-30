@@ -79,5 +79,6 @@ Sentiment(polarity=-0.8, subjectivity=0.9)
 
 # Literatura
 [1] https://mfiles.pl/pl/index.php/Analiza_sentymentu
-[2] geeksforgeeks.org/python-sentiment-analysis-using-vader/
+
+[2] geeksforgeeks.org/python-sentiment-analysis-using-vader
 
