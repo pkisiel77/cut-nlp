@@ -29,6 +29,10 @@ s3 = {'neg': 0.0, 'neu': 0.545, 'pos': 0.455, 'compound': 0.3612}
 s4 = {'neg': 0.0, 'neu': 0.417, 'pos': 0.583, 'compound': 0.6369}
 ```
 
+- metryka **neg** prawdopodobieństwo przynależności do klasy **negatywnej**
+- metryka **neu** prawdopodobieństwo przynależności do klasy **neutralnej**
+- metryka **pos** prawdopodobieństwo przynależności do klasy **pozytywnej**
+
 ### Links
 [NLTK sentiments](https://www.nltk.org/howto/sentiment.html)
 
