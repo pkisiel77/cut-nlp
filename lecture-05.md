@@ -8,7 +8,7 @@ Zgodnie z [[1]](https://mfiles.pl/pl/index.php/Analiza_sentymentu):
 
 > Może być wykorzystywana do analizy ludzkich opinii, odczuć czy postaw na przykład wobec produktów, usług, organizacji, wydarzeń czy poszczególnych osób (Bing Liu, 2012, str. 7), co daje możliwość wykorzystywania jej w wielu obszarach, takich jak nauki społeczne, ekonomiczne, a także biznes (T.Turek, 2017, str. 286).
 
-
+## vaderSentiment
 
 ```
 #!pip3 install vaderSentiment
@@ -45,7 +45,20 @@ else :
     print("Neutral")
 ```
 
-### Wykorzystanie
+## TextBlob
+
+```
+from textblob import TextBlob
+test = TextBlob("I hate this movie")
+print(test.sentiment)
+```
+
+```
+Sentiment(polarity=-0.8, subjectivity=0.9)
+```
+
+
+### Wykorzystanie [[2]](geeksforgeeks.org/python-sentiment-analysis-using-vader/)
 
 **Biznes**: firmy zajmujące się marketingiem używają go do rozwijania swoich strategii, zrozumienia uczuć klientów wobec produktów lub marki, tego, jak ludzie reagują na ich kampanie lub premiery produktów i dlaczego konsumenci nie kupują niektórych produktów.
 
@@ -53,7 +66,7 @@ else :
 
 **Działania publiczne**: Analiza nastrojów służy również do monitorowania i analizowania zjawisk społecznych, wykrywania potencjalnie niebezpiecznych sytuacji i określania ogólnego nastroju blogosfery.
 
-[[2]](geeksforgeeks.org/python-sentiment-analysis-using-vader/)
+
 
 ### Links
 [NLTK sentiments](https://www.nltk.org/howto/sentiment.html)
