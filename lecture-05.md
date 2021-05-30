@@ -45,6 +45,16 @@ else :
     print("Neutral")
 ```
 
+### Wykorzystanie
+
+**Biznes**: firmy zajmujące się marketingiem używają go do rozwijania swoich strategii, zrozumienia uczuć klientów wobec produktów lub marki, tego, jak ludzie reagują na ich kampanie lub premiery produktów i dlaczego konsumenci nie kupują niektórych produktów.
+
+**Polityka**: w dziedzinie polityki służy do śledzenia poglądów politycznych, wykrywania spójności i niespójności między oświadczeniami a działaniami na szczeblu rządowym. Może być również używany do przewidywania wyników wyborów! .
+
+**Działania publiczne**: Analiza nastrojów służy również do monitorowania i analizowania zjawisk społecznych, wykrywania potencjalnie niebezpiecznych sytuacji i określania ogólnego nastroju blogosfery.
+
+[[2]](geeksforgeeks.org/python-sentiment-analysis-using-vader/)
+
 ### Links
 [NLTK sentiments](https://www.nltk.org/howto/sentiment.html)
 
@@ -56,4 +66,5 @@ else :
 
 # Literatura
 [1] https://mfiles.pl/pl/index.php/Analiza_sentymentu
+[2] geeksforgeeks.org/python-sentiment-analysis-using-vader/
 
