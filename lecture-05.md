@@ -10,7 +10,7 @@ Zgodnie z [[1]](https://mfiles.pl/pl/index.php/Analiza_sentymentu):
 
 ## vaderSentiment
 
-```
+```py
 #!pip3 install vaderSentiment
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
@@ -34,7 +34,7 @@ s4 = {'neg': 0.0, 'neu': 0.417, 'pos': 0.583, 'compound': 0.6369}
 - metryka **pos** prawdopodobieństwo przynależności do klasy **pozytywnej**
 
 ### Definicja **compound**
-```
+```py
 if sentiment_dict['compound'] >= 0.05 :
     print("Positive")
 
@@ -47,7 +47,7 @@ else :
 
 ## TextBlob
 
-```
+```py
 from textblob import TextBlob
 test = TextBlob("I hate this movie")
 print(test.sentiment)
