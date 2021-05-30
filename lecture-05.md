@@ -76,7 +76,7 @@ Proszę przejrzeć dokumentację dla [TextBlob - Sentiment Analysis](https://tex
 
 
 
-# 2. spacy similarity
+# 2. spacy similarity for INTENTS
 
 Obliczanie wyników podobieństwa może być pomocne w wielu sytuacjach, ale ważne jest również, aby zachować realistyczne oczekiwania co do tego, jakie informacje mogą dostarczyć. Słowa mogą być ze sobą powiązane na wiele sposobów, więc pojedynczy wynik "podobieństwa" zawsze będzie mieszanką różnych sygnałów, a wektory trenowane na różnych danych mogą dawać bardzo różne wyniki, które mogą nie być przydatne w realizowanym projekcie.
 Dlatego przy wykrywaniu intencji należy przyjąć określone ograniczenia.
