@@ -2,6 +2,12 @@
 
 # 1. SENTIMENTS
 
+Zgodnie z:
+
+> Analiza sentymentu – metoda analizy tekstu. Jej zadaniem jest wyszukać i zaklasyfikować w wypowiedzi słowa naznaczone emocjonalnie: zarówno takie, które świadczą o stanie emocjonalnym autora jak i te, które mogą wskazywać na efekt emocjonalny, jaki wypowiedź uzyska u odbiorcy (K.Tomanek, 2014, str. 120).
+
+> Może być wykorzystywana do analizy ludzkich opinii, odczuć czy postaw na przykład wobec produktów, usług, organizacji, wydarzeń czy poszczególnych osób (Bing Liu, 2012, str. 7), co daje możliwość wykorzystywania jej w wielu obszarach, takich jak nauki społeczne, ekonomiczne, a także biznes (T.Turek, 2017, str. 286).
+
 
 
 ```
@@ -22,6 +28,10 @@ s2 = {'neg': 0.552, 'neu': 0.448, 'pos': 0.0, 'compound': -0.5719}
 s3 = {'neg': 0.0, 'neu': 0.545, 'pos': 0.455, 'compound': 0.3612} 
 s4 = {'neg': 0.0, 'neu': 0.417, 'pos': 0.583, 'compound': 0.6369}
 ```
+
+### Links
+[NLTK sentiments](https://www.nltk.org/howto/sentiment.html)
+
 
 
 # 2. INTENTS
