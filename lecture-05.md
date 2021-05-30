@@ -57,7 +57,7 @@ print(test.sentiment)
 Sentiment(polarity=-0.8, subjectivity=0.9)
 ```
 
-Proszę przejżeć dokumentacją dla [TextBlob - Sentiment Analysis](https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis)
+Proszę przejrzeć dokumentację dla [TextBlob - Sentiment Analysis](https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis)
 
 
 ### Wykorzystanie [[2]](geeksforgeeks.org/python-sentiment-analysis-using-vader/)
