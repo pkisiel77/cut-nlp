@@ -6,6 +6,10 @@
 grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detected
 ```
 
+## June 2021
+
+[Text2App: A Framework for Creating Android Apps from Text Descriptions](https://arxiv.org/pdf/2104.08301.pdf?fbclid=IwAR022b41Mh4BBQ7muPM_WEzI18Ry0tzPaXtUPb3usfoY7U9wA0Be9JgOBfQ)
+
 ## May 2021
 
 ### Voice
