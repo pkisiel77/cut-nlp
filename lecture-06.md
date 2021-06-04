@@ -1,4 +1,4 @@
-
+# Wykład 6
 
 ## RASA
 
@@ -6,14 +6,21 @@
 
 ### translation_en_to_de
 
-### AZURE Translate
+### AZURE translator
 
-### IBM
+### IBM translator
 
-### Google
+### Google translator
 
 ### [TextRazor](https://www.textrazor.com/)
 
 ### [DeepL](https://www.deepl.com/translator)
+
+### [COTOHA translator](https://www.ntt.com/en/services/application/cotoha-translator.html)
+
+## Anonimizacja
+
+
+
 
 
