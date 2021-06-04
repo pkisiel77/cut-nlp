@@ -36,6 +36,7 @@ Przykłady na wykładzie
 ### Informacje
 
 - https://www.ideoforce.pl/wiedza/algorytm-wyszukiwania-bert-co-wiemy-o-nim-do-tej-pory,324.html
+- https://github.com/allegro/HerBERT
 
 ## Anonimizacja
 
