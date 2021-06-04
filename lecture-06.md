@@ -28,6 +28,12 @@ Przykłady na wykładzie
 
 ## Anonimizacja
 
+### Informacje
+
+- https://pl.wikipedia.org/wiki/Anonimizacja_danych
+
+- https://lexdigital.pl/co-to-jest-anonimizacja-i-pseudonimizacja
+
 ## GPT-3
 
 
