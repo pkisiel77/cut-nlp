@@ -120,6 +120,9 @@ levenshtein('ala ma kota', 'ola ma psa')
 4.0
 ```
 
+## Word2Vec
+https://www.analyticsvidhya.com/blog/2019/07/how-to-build-recommendation-system-word2vec-python/
+
 ## Literatura
 
 
