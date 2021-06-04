@@ -4,8 +4,9 @@
 
 ### Informacje
 
-- https://github.com/RasaHQ/rasa-demo
+- https://www.machinelearningplus.com/nlp/chatbot-with-rasa-and-spacy/
 
+- https://github.com/RasaHQ/rasa-demo
 
 ## Transformers
 
@@ -48,6 +49,10 @@ Przykłady na wykładzie
 - https://e-msi.pl/anonimizacja/
 
 ## GPT-3
+
+### Informacje
+
+- https://www.reddit.com/r/artificial/comments/icvypl/list_of_free_sitesprograms_that_are_powered_by/
 
 
 
