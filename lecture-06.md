@@ -4,9 +4,17 @@
 
 ## Transformers
 
+```
+Przykłady na wykładzie 
+```
+
 ### translation_en_to_de
 
-### AZURE translator
+```
+Przykłady na wykładzie 
+```
+
+### [AZURE translator](https://azure.microsoft.com/pl-pl/services/cognitive-services/translator/#features)
 
 ### IBM translator
 
