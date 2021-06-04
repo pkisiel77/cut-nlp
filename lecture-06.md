@@ -16,7 +16,7 @@ Przykłady na wykładzie
 
 ### [AZURE translator](https://azure.microsoft.com/pl-pl/services/cognitive-services/translator/#features)
 
-### IBM translator
+### [IBM translator](https://www.ibm.com/watson/services/language-translator/)
 
 ### Google translator
 
