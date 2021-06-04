@@ -5,7 +5,6 @@
 ### Informacje
 
 - https://www.machinelearningplus.com/nlp/chatbot-with-rasa-and-spacy/
-
 - https://github.com/RasaHQ/rasa-demo
 
 ## Transformers
