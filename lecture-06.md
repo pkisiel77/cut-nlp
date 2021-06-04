@@ -18,7 +18,7 @@ Przykłady na wykładzie
 
 ### [IBM translator](https://www.ibm.com/watson/services/language-translator/)
 
-### Google translator
+### [Google translator](https://cloud.google.com/translate)
 
 ### [TextRazor](https://www.textrazor.com/)
 
