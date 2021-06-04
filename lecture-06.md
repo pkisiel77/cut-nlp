@@ -53,6 +53,7 @@ Przykłady na wykładzie
 ### Informacje
 
 - https://www.reddit.com/r/artificial/comments/icvypl/list_of_free_sitesprograms_that_are_powered_by/
+- https://hash.ai/
 
 
 
