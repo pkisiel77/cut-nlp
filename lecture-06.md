@@ -2,6 +2,11 @@
 
 ## RASA
 
+### Informacje
+
+- https://github.com/RasaHQ/rasa-demo
+
+
 ## Transformers
 
 ```
@@ -25,6 +30,12 @@ Przykłady na wykładzie
 ### [DeepL](https://www.deepl.com/translator)
 
 ### [COTOHA translator](https://www.ntt.com/en/services/application/cotoha-translator.html)
+
+## BERT
+
+### Informacje
+
+- https://www.ideoforce.pl/wiedza/algorytm-wyszukiwania-bert-co-wiemy-o-nim-do-tej-pory,324.html
 
 ## Anonimizacja
 
