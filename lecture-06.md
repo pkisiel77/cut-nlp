@@ -33,10 +33,16 @@ Przykłady na wykładzie
 
 ## BERT
 
+BERT trening:
+- Wikipedia 
+- Book Corpus 
+- dataset +10,000 książek o różnej tematyce. 
+
 ### Informacje
 
 - https://www.ideoforce.pl/wiedza/algorytm-wyszukiwania-bert-co-wiemy-o-nim-do-tej-pory,324.html
 - https://github.com/allegro/HerBERT
+- https://towardsdatascience.com/bert-nlp-how-to-build-a-question-answering-bot-98b1d1594d7b
 
 ## Anonimizacja
 
