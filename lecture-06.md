@@ -52,6 +52,7 @@ Przykłady na wykładzie
 
 - https://www.reddit.com/r/artificial/comments/icvypl/list_of_free_sitesprograms_that_are_powered_by/
 - https://hash.ai/
+- https://www.twilio.com/blog/openai-gpt-3-chatbot-python-twilio-sms
 
 
 
