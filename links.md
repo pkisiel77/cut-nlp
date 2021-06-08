@@ -7,6 +7,11 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 ```
 
 ## June 2021
+
+[Generating Sentences from Keywords using Transformers in NLP](https://medium.com/mlearning-ai/generating-sentences-from-keywords-using-transformers-in-nlp-e89f4de5cf6b)
+
+[The NLP Cypher | 06.06.21](https://pub.towardsai.net/the-nlp-cypher-06-06-21-27b7b0de02f4)
+
 [10 ML Project and AI Project Ideas for 2021](https://jelvix.medium.com/10-ml-project-and-ai-project-ideas-for-2021-133bc59ae545)
 
 [Text2App: A Framework for Creating Android Apps from Text Descriptions](https://arxiv.org/pdf/2104.08301.pdf?fbclid=IwAR022b41Mh4BBQ7muPM_WEzI18Ry0tzPaXtUPb3usfoY7U9wA0Be9JgOBfQ)
