@@ -8,6 +8,12 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 
 ## June 2021
 
+### STT
+
+[Algorytm dwukrotnie lepszy niż psychiatra. Rozpoznaje depresję i schizofrenię po głosie](https://www.focus.pl/artykul/algorytm-dwukrotnie-lepszy-niz-psychiatra-rozpoznaje-depresje-i-schizofrenie-po-glosie)
+
+### NLP
+
 [Automate Your Database Job by Using GPT-3 To Generate Queries](https://betterprogramming.pub/automate-your-database-job-by-using-gpt-3-to-generate-queries-9e0ad2004f01)
 
 [GPT-3 Scared You? Meet Wu Dao 2.0: A Monster of 1.75 Trillion Parameters](https://towardsdatascience.com/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484)
