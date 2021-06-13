@@ -81,9 +81,9 @@ https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/
 
 
 ### Other examples
-https://github.com/explosion/spaCy/issues/6382
-
-https://medium.com/@ashiqgiga07/rule-based-matching-with-spacy-295b76ca2b68
+- https://github.com/explosion/spaCy/issues/6382
+- https://medium.com/@ashiqgiga07/rule-based-matching-with-spacy-295b76ca2b68
+- https://suneelpatel-in.medium.com/named-entity-recognition-ner-custom-advanced-nlp-tool-using-spacy-568a8fbbe0d4
 
 ## spacy Intents similarity
 
