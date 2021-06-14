@@ -14,6 +14,8 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 
 ### NLP
 
+[Sztuczna inteligencja zmieni obsługę prawną? Polska kancelaria skorzysta z platformy AQUILA](https://whatsnext.pl/sztuczna-inteligencja-platforma-aquila-sadownictwo/)
+
 [Automate Your Database Job by Using GPT-3 To Generate Queries](https://betterprogramming.pub/automate-your-database-job-by-using-gpt-3-to-generate-queries-9e0ad2004f01)
 
 [GPT-3 Scared You? Meet Wu Dao 2.0: A Monster of 1.75 Trillion Parameters](https://towardsdatascience.com/gpt-3-scared-you-meet-wu-dao-2-0-a-monster-of-1-75-trillion-parameters-832cd83db484)
