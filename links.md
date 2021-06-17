@@ -14,6 +14,8 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 
 ### NLP
 
+(How did I write an own OCR program using Keras and TensorFlow in Python)[https://towardsdatascience.com/how-did-i-train-an-ocr-model-using-keras-and-tensorflow-7e10b241c22b]
+
 [Sztuczna inteligencja zmieni obsługę prawną? Polska kancelaria skorzysta z platformy AQUILA](https://whatsnext.pl/sztuczna-inteligencja-platforma-aquila-sadownictwo/)
 
 [Automate Your Database Job by Using GPT-3 To Generate Queries](https://betterprogramming.pub/automate-your-database-job-by-using-gpt-3-to-generate-queries-9e0ad2004f01)
