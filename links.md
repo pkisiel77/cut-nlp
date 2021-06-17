@@ -14,6 +14,8 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 
 ### NLP
 
+[Differences Between Word2Vec and BERT](https://medium.com/swlh/differences-between-word2vec-and-bert-c08a3326b5d1)
+
 [How did I write an own OCR program using Keras and TensorFlow in Python](https://towardsdatascience.com/how-did-i-train-an-ocr-model-using-keras-and-tensorflow-7e10b241c22b)
 
 [Sztuczna inteligencja zmieni obsługę prawną? Polska kancelaria skorzysta z platformy AQUILA](https://whatsnext.pl/sztuczna-inteligencja-platforma-aquila-sadownictwo/)
