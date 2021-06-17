@@ -14,6 +14,8 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 
 ### NLP
 
+[Mishti A Chatbot with Emotions](https://hiteshchandra.medium.com/mishti-a-chatbot-with-emotions-cd454db88863)
+
 [sense2vec in python3](https://medium.com/nerd-for-tech/sense2vec-in-python3-9d3db9557495)
 
 [Differences Between Word2Vec and BERT](https://medium.com/swlh/differences-between-word2vec-and-bert-c08a3326b5d1)
