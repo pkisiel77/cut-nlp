@@ -13,6 +13,7 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 [Algorytm dwukrotnie lepszy niż psychiatra. Rozpoznaje depresję i schizofrenię po głosie](https://www.focus.pl/artykul/algorytm-dwukrotnie-lepszy-niz-psychiatra-rozpoznaje-depresje-i-schizofrenie-po-glosie)
 
 ### NLP
+[Data analysis made easy: Text2Code for Jupyter notebook](https://towardsdatascience.com/data-analysis-made-easy-text2code-for-jupyter-notebook-5380e89bb493)
 
 [Top 10 NLP Projects on Kaggle to Strengthen Your Portfolio](https://medium.com/swlh/top-10-nlp-projects-on-kaggle-to-strengthen-your-portfolio-cb28191c59dd)
 
