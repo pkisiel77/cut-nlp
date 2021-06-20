@@ -14,6 +14,8 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 
 ### NLP
 
+[Top 10 NLP Projects on Kaggle to Strengthen Your Portfolio](https://medium.com/swlh/top-10-nlp-projects-on-kaggle-to-strengthen-your-portfolio-cb28191c59dd)
+
 [Mishti A Chatbot with Emotions](https://hiteshchandra.medium.com/mishti-a-chatbot-with-emotions-cd454db88863)
 
 [sense2vec in python3](https://medium.com/nerd-for-tech/sense2vec-in-python3-9d3db9557495)
