@@ -14,6 +14,8 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 
 ### NLP
 
+[Recommendation system using BERT embeddings](https://medium.com/analytics-vidhya/recommendation-system-using-bert-embeddings-1d8de5fc3c56)
+
 [SpellChecker: Everything you might want to know](https://medium.com/analytics-vidhya/spellchecker-review-71a461e20279)
 [Data analysis made easy: Text2Code for Jupyter notebook](https://towardsdatascience.com/data-analysis-made-easy-text2code-for-jupyter-notebook-5380e89bb493)
 
