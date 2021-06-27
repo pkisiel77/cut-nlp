@@ -17,7 +17,7 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 
 ### NLP
 
-[simpleT5 — Train T5 Models in Just 3 Lines of Code](https://medium.com/geekculture/simplet5-train-t5-models-in-just-3-lines-of-code-by-shivanand-roy-2021-354df5ae46ba)
+[***simpleT5*** — Train T5 Models in Just 3 Lines of Code](https://medium.com/geekculture/simplet5-train-t5-models-in-just-3-lines-of-code-by-shivanand-roy-2021-354df5ae46ba)
 
 [Recommendation system using BERT embeddings](https://medium.com/analytics-vidhya/recommendation-system-using-bert-embeddings-1d8de5fc3c56)
 
