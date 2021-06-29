@@ -9,6 +9,12 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 ## Datasets
 [A curated list of the most important common-sense datasets in NLP](https://hilbert-cantor.medium.com/a-curated-list-of-the-most-important-common-sense-datasets-in-nlp-66963567d00b)
 
+## July 2021
+
+[Facebook AI Similarity Search](https://towardsdatascience.com/facebook-ai-similarity-search-7c564daee9eb)
+
+[Using NER to detect relevant entities in Finance](https://medium.com/ravenpack/using-ner-to-detect-relevant-entities-in-finance-a66af2fad921)
+
 ## June 2021
 
 ### STT
