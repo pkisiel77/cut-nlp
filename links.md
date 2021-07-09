@@ -11,6 +11,8 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 
 ## July 2021
 
+[GPT-J](https://www.p3r.one/gpt-j/)
+
 [Classifying Tweets for Sentiment Analysis: Natural Language Processing in Python for Beginners](https://medium.com/vickdata/detecting-hate-speech-in-tweets-natural-language-processing-in-python-for-beginners-4e591952223)
 
 [Facebook AI Similarity Search](https://towardsdatascience.com/facebook-ai-similarity-search-7c564daee9eb)
