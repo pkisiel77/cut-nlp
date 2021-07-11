@@ -11,6 +11,10 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 
 ## July 2021
 
+[Doc2Vec — Computing Similarity between Documents](https://medium.com/red-buffer/doc2vec-computing-similarity-between-the-documents-47daf6c828cd)
+
+[MMDetection Tutorial — An End2End State-of-the-art Object Detection Library](https://towardsdatascience.com/mmdetection-tutorial-an-end2end-state-of-the-art-object-detection-library-59064deeada3)
+
 [GPT-J](https://www.p3r.one/gpt-j/)
 
 [Classifying Tweets for Sentiment Analysis: Natural Language Processing in Python for Beginners](https://medium.com/vickdata/detecting-hate-speech-in-tweets-natural-language-processing-in-python-for-beginners-4e591952223)
