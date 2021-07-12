@@ -11,6 +11,8 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 
 ## July 2021
 
+[Extract meaningful information from Big Data using NLP and Machine Learning](https://payodatechnologyinc.medium.com/extract-meaningful-information-from-big-data-using-nlp-and-machine-learning-f76972b4b9ea)
+
 [NER, SpaCy and Lasagne](https://medium.com/swlh/ner-spacy-and-lasagne-51b56fdad57e)
 
 [Why can’t I use text like it is for NLP AI modeling?](https://fabraz.medium.com/why-cant-i-use-text-like-it-is-for-nlp-ai-modeling-de70a6e1420e)
