@@ -11,6 +11,8 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 
 ## July 2021
 
+[NER, SpaCy and Lasagne](https://medium.com/swlh/ner-spacy-and-lasagne-51b56fdad57e)
+
 [Why can’t I use text like it is for NLP AI modeling?](https://fabraz.medium.com/why-cant-i-use-text-like-it-is-for-nlp-ai-modeling-de70a6e1420e)
 [Doc2Vec — Computing Similarity between Documents](https://medium.com/red-buffer/doc2vec-computing-similarity-between-the-documents-47daf6c828cd)
 
