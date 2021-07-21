@@ -10,6 +10,7 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 [A curated list of the most important common-sense datasets in NLP](https://hilbert-cantor.medium.com/a-curated-list-of-the-most-important-common-sense-datasets-in-nlp-66963567d00b)
 
 ## July 2021
+[Can a Computer Ever Learn to Talk?](https://onezero.medium.com/can-a-computer-ever-learn-to-talk-cf47d453669f)
 
 [Google’s LaMDA: The Next Generation of Chatbots](https://towardsdatascience.com/googles-lamda-the-next-generation-of-chatbots-62294be58426)
 
