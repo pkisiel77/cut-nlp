@@ -13,6 +13,8 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 [10 Amazing MLOps Learning Resources](https://medium.com/analytics-vidhya/10-amazing-mlops-learning-resources-378804c418be)
 
 ## July 2021
+[Top 20 NLP applications in Data science](https://rakesh-maddipati.medium.com/top-20-nlp-applications-in-data-science-620aaa982bbb)
+
 [Can a Computer Ever Learn to Talk?](https://onezero.medium.com/can-a-computer-ever-learn-to-talk-cf47d453669f)
 
 [Google’s LaMDA: The Next Generation of Chatbots](https://towardsdatascience.com/googles-lamda-the-next-generation-of-chatbots-62294be58426)
