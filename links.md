@@ -1,4 +1,4 @@
-# NLP, NLU, STT, TTS
+# NLP, NLU, STT, TTS, MLOps
 
 ## Before use tf on the server please check
 
@@ -8,6 +8,9 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 
 ## Datasets
 [A curated list of the most important common-sense datasets in NLP](https://hilbert-cantor.medium.com/a-curated-list-of-the-most-important-common-sense-datasets-in-nlp-66963567d00b)
+
+## MLOps
+[10 Amazing MLOps Learning Resources](https://medium.com/analytics-vidhya/10-amazing-mlops-learning-resources-378804c418be)
 
 ## July 2021
 [Can a Computer Ever Learn to Talk?](https://onezero.medium.com/can-a-computer-ever-learn-to-talk-cf47d453669f)
