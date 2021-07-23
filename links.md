@@ -6,6 +6,11 @@
 grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detected
 ```
 
+## Diagrams
+[Draw.io VS Code Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+
+[VSCode for Diagramming and Presentation](https://alpha2phi.medium.com/vscode-for-diagramming-and-presentation-b3c1dfb57aad)
+
 ## Datasets
 [A curated list of the most important common-sense datasets in NLP](https://hilbert-cantor.medium.com/a-curated-list-of-the-most-important-common-sense-datasets-in-nlp-66963567d00b)
 
