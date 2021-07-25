@@ -15,6 +15,7 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 [A curated list of the most important common-sense datasets in NLP](https://hilbert-cantor.medium.com/a-curated-list-of-the-most-important-common-sense-datasets-in-nlp-66963567d00b)
 
 ## MLOps
+[Apple’s Machine Learning Researchers Have Developed A No-Code AI Platform Called ‘Trinity’ For Complex Spatial Datasets](https://www.marktechpost.com/2021/07/23/apples-machine-learning-researchers-have-developed-a-no-code-ai-platform-called-trinity-for-complex-spatial-datasets/?fbclid=IwAR2-KgHGtAkU0ayZxjAzqgT8wAFL2VkcoE89l-J5fJqZXXnOZoN3QXD57x8)
 [10 Amazing MLOps Learning Resources](https://medium.com/analytics-vidhya/10-amazing-mlops-learning-resources-378804c418be)
 
 ## July 2021
