@@ -131,5 +131,7 @@ https://github.com/graykode/nlp-tutorial
 
 ## Chatbots
 
+[Using BERT to Build a Whole-Of-Government Chatbot](https://medium.com/dsaid-govtech/using-bert-to-build-a-whole-of-government-chatbot-1afa826a3323)
+
 [Automate any Chat-Messenger with Python](https://medium.com/analytics-vidhya/automate-any-chat-messenger-with-python-538d1b7d5ed0)
 
