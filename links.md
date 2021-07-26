@@ -18,6 +18,9 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 [Apple’s Machine Learning Researchers Have Developed A No-Code AI Platform Called ‘Trinity’ For Complex Spatial Datasets](https://www.marktechpost.com/2021/07/23/apples-machine-learning-researchers-have-developed-a-no-code-ai-platform-called-trinity-for-complex-spatial-datasets/?fbclid=IwAR2-KgHGtAkU0ayZxjAzqgT8wAFL2VkcoE89l-J5fJqZXXnOZoN3QXD57x8)
 [10 Amazing MLOps Learning Resources](https://medium.com/analytics-vidhya/10-amazing-mlops-learning-resources-378804c418be)
 
+## Python
+[Tips and Tricks to Work with Text Files in Python](https://towardsdatascience.com/tips-and-tricks-to-work-with-text-files-in-python-89f14a755315)
+
 ## July 2021
 [Top 20 NLP applications in Data science](https://rakesh-maddipati.medium.com/top-20-nlp-applications-in-data-science-620aaa982bbb)
 
