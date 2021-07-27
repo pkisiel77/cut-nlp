@@ -133,6 +133,7 @@ https://github.com/graykode/nlp-tutorial
 [How we reduced our text similarity runtime by 99.96%](https://medium.com/data-science-at-microsoft/how-we-reduced-our-text-similarity-runtime-by-99-96-e8e4b4426b35)
 
 ## Chatbots
+[Medical Chatbot Using Bert and GPT2](https://suniljammalamadaka.medium.com/medical-chatbot-using-bert-and-gpt2-62f0c973162f)
 
 [Using BERT to Build a Whole-Of-Government Chatbot](https://medium.com/dsaid-govtech/using-bert-to-build-a-whole-of-government-chatbot-1afa826a3323)
 
