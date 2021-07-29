@@ -145,4 +145,6 @@ https://github.com/graykode/nlp-tutorial
 ## NER
 [NER With Transformers And spaCy](https://towardsdatascience.com/ner-with-transformers-and-spacy-b3240bc65eb4)
 
+[How to Train spaCy to Autodetect New Entities (NER) [Complete Guide]](https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/)
+
 
