@@ -147,4 +147,7 @@ https://github.com/graykode/nlp-tutorial
 
 [How to Train spaCy to Autodetect New Entities (NER) [Complete Guide]](https://www.machinelearningplus.com/nlp/training-custom-ner-model-in-spacy/)
 
+## Speech To Text
+[Transcribing videos using Google’s Pre-trained Speech-to-text API](https://blog.searce.com/transcribing-videos-using-googles-pre-trained-speech-to-text-api-7bb00186e188)
+
 
