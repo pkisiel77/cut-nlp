@@ -142,4 +142,7 @@ https://github.com/graykode/nlp-tutorial
 ## API
 [Every API Starts with a Story](https://medium.com/pragmatic-programmers/api-story-mike-amundsen-d8dd56a12f47)
 
+## NER
+[NER With Transformers And spaCy](https://towardsdatascience.com/ner-with-transformers-and-spacy-b3240bc65eb4)
+
 
