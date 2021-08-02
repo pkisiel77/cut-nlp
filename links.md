@@ -6,6 +6,9 @@
 grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detected
 ```
 
+## Utils
+[This Free GPU-Enabled Python IDE For Your Data Science Projects](https://medium.com/better-ai/this-free-gpu-enabled-python-ide-for-your-data-science-projects-acc50dd8d1dd)
+
 ## ML Projects
 [Machine Learning Projects](https://www.youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)
 
