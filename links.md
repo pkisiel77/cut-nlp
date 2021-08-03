@@ -37,6 +37,10 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 ## OCR
 [Extract Text From Images Using Tesseract OCR Engine and Python Choose from over 100 languages](https://towardsdatascience.com/how-to-extract-text-from-images-using-tesseract-ocr-engine-and-python-22934125fdd5)
 
+## August 2021
+
+[Few Shot Learning Using SBERT](https://medium.com/analytics-vidhya/few-shot-learning-using-sbert-95f8b08248bf)
+
 ## July 2021
 [Top 20 NLP applications in Data science](https://rakesh-maddipati.medium.com/top-20-nlp-applications-in-data-science-620aaa982bbb)
 
