@@ -6,6 +6,10 @@
 grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detected
 ```
 
+## Questions
+
+[Coding Interview types: ML/Data Science/AI Research Engineer](https://purvanshimehta.medium.com/coding-interview-resources-ml-data-science-ai-research-engineer-b7cc2fbf81ab)
+
 ## Utils
 [This Free GPU-Enabled Python IDE For Your Data Science Projects](https://medium.com/better-ai/this-free-gpu-enabled-python-ide-for-your-data-science-projects-acc50dd8d1dd)
 
