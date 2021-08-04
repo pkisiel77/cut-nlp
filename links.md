@@ -17,11 +17,13 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 [Machine Learning Projects](https://www.youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)
 
 ## Diagrams
+
 [Draw.io VS Code Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 
 [VSCode for Diagramming and Presentation](https://alpha2phi.medium.com/vscode-for-diagramming-and-presentation-b3c1dfb57aad)
 
 ## Datasets
+
 [How to Use MongoDB to Store and Retrieve ML Models](https://pub.towardsai.net/how-to-use-mongodb-to-store-and-retrieve-ml-models-2a8a831e7326)
 
 [A curated list of the most important common-sense datasets in NLP](https://hilbert-cantor.medium.com/a-curated-list-of-the-most-important-common-sense-datasets-in-nlp-66963567d00b)
@@ -42,6 +44,7 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 [Extract Text From Images Using Tesseract OCR Engine and Python Choose from over 100 languages](https://towardsdatascience.com/how-to-extract-text-from-images-using-tesseract-ocr-engine-and-python-22934125fdd5)
 
 ## August 2021
+[NLP: Splitting Text into Sentences](https://towardsdatascience.com/nlp-splitting-text-into-sentences-7bbce222ef17)
 
 [Few Shot Learning Using SBERT](https://medium.com/analytics-vidhya/few-shot-learning-using-sbert-95f8b08248bf)
 
