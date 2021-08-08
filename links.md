@@ -17,7 +17,9 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 ## ML Projects
 [Machine Learning Projects](https://www.youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)
 
-## Diagrams
+## Diagrams, Dashboards
+
+[Analyzing ML Model using Dashboard](https://towardsdatascience.com/analyzing-ml-model-using-dashboard-f69e17a942f9)
 
 [Draw.io VS Code Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 
