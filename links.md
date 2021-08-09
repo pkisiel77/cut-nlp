@@ -34,6 +34,7 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 [A curated list of the most important common-sense datasets in NLP](https://hilbert-cantor.medium.com/a-curated-list-of-the-most-important-common-sense-datasets-in-nlp-66963567d00b)
 
 ## MLOps
+[Lyft’s End-to-End ML Platform](https://quantumstat.medium.com/the-nlp-cypher-08-08-21-17c2f6476fe0)
 
 [Open MLOps: Open Source Production Machine Learning](https://towardsdatascience.com/open-mlops-open-source-production-machine-learning-f4080f02e9f0)
 
