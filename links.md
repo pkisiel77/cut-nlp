@@ -54,6 +54,8 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 [Extract Text From Images Using Tesseract OCR Engine and Python Choose from over 100 languages](https://towardsdatascience.com/how-to-extract-text-from-images-using-tesseract-ocr-engine-and-python-22934125fdd5)
 
 ## August 2021
+[https://towardsdatascience.com/5-simple-ways-to-tokenize-text-in-python-92c6804edfc4](https://towardsdatascience.com/5-simple-ways-to-tokenize-text-in-python-92c6804edfc4)
+
 [The NLP Cypher | 08.08.21](https://quantumstat.medium.com/the-nlp-cypher-08-08-21-17c2f6476fe0)
 [NLP: Splitting Text into Sentences](https://towardsdatascience.com/nlp-splitting-text-into-sentences-7bbce222ef17)
 
