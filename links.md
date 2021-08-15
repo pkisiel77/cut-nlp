@@ -42,6 +42,8 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 [10 Amazing MLOps Learning Resources](https://medium.com/analytics-vidhya/10-amazing-mlops-learning-resources-378804c418be)
 
 ## Python
+[Python functions naming: an algorithm](https://melevir.medium.com/python-functions-naming-the-algorithm-74320a18278d)
+
 [Namespacing in Python](https://betterprogramming.pub/namespacing-with-python-79574d125564)
 
 [A Guide to Python Good Practices (Kedro)](https://towardsdatascience.com/a-guide-to-python-good-practices-90598529da35)
