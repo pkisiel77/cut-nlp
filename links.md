@@ -7,6 +7,7 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 ```
 
 ## Questions
+
 [Interview resources : ML/Data Science/AI Research Engineer](https://purvanshimehta.medium.com/interview-resources-ml-data-science-ai-research-engineer-4703518d208e)
 
 [30 Most Asked Machine Learning Questions Answered](https://medium.com/pythoneers/30-basic-machine-learning-questions-answered-692acd10841f)
@@ -14,9 +15,13 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 [Coding Interview types: ML/Data Science/AI Research Engineer](https://purvanshimehta.medium.com/coding-interview-resources-ml-data-science-ai-research-engineer-b7cc2fbf81ab)
 
 ## Utils
+
 [This Free GPU-Enabled Python IDE For Your Data Science Projects](https://medium.com/better-ai/this-free-gpu-enabled-python-ide-for-your-data-science-projects-acc50dd8d1dd)
 
-## ML Projects
+## ML Projects, Libs
+
+[Detectron2 vs. Yolov5 (Which One Suits Your Use Case Better?)](https://medium.com/ireadrx/detectron2-vs-yolov5-which-one-suits-your-use-case-better-d959a3d4bdf)
+
 [Machine Learning Projects](https://www.youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)
 
 ## Diagrams, Dashboards
