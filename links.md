@@ -58,6 +58,10 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 [Extract Text From Images Using Tesseract OCR Engine and Python Choose from over 100 languages](https://towardsdatascience.com/how-to-extract-text-from-images-using-tesseract-ocr-engine-and-python-22934125fdd5)
 
 ## August 2021
+[Nine Emerging Python Libraries You Should Add to Your Data Science Toolkit in 2021](https://towardsdatascience.com/nine-emerging-python-libraries-you-should-add-to-your-data-science-toolkit-in-2021-85ce3d239846)
+
+[Gradio](https://github.com/gradio-app/gradio)
+
 [NLP: Text Data Visualization](https://towardsdatascience.com/nlp-text-data-visualization-5d5c64c86019)
 
 [5 Simple Ways to Tokenize Text in Python](https://towardsdatascience.com/5-simple-ways-to-tokenize-text-in-python-92c6804edfc4)
