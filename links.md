@@ -8,6 +8,8 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 
 ## Questions
 
+[The Ultimate Guide to Acing Machine Learning Interviews for Data Scientists and Machine Learning Engineers](https://pub.towardsai.net/4-types-of-machine-learning-interview-questions-for-data-scientists-and-machine-learning-engineers-b8135805ce1b)
+
 [Interview resources : ML/Data Science/AI Research Engineer](https://purvanshimehta.medium.com/interview-resources-ml-data-science-ai-research-engineer-4703518d208e)
 
 [30 Most Asked Machine Learning Questions Answered](https://medium.com/pythoneers/30-basic-machine-learning-questions-answered-692acd10841f)
