@@ -22,6 +22,8 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 
 ## ML Projects, Libs
 
+[Anomaly Detection Using PyCaret!!!](https://insaid.medium.com/anomaly-detection-using-pycaret-38b267ed638b)
+
 [Detectron2 vs. Yolov5 (Which One Suits Your Use Case Better?)](https://medium.com/ireadrx/detectron2-vs-yolov5-which-one-suits-your-use-case-better-d959a3d4bdf)
 
 [Machine Learning Projects](https://www.youtube.com/playlist?list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6)
@@ -65,6 +67,8 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 [Extract Text From Images Using Tesseract OCR Engine and Python Choose from over 100 languages](https://towardsdatascience.com/how-to-extract-text-from-images-using-tesseract-ocr-engine-and-python-22934125fdd5)
 
 ## August 2021
+[WHAT PROGRAMMING LANGUAGES ARE SUITABLE FOR NATURAL LANGUAGE PROCESSING?](https://medium.com/magnidata/what-programming-languages-are-suitable-for-natural-language-processing-be560c0366ef)
+
 [Nine Emerging Python Libraries You Should Add to Your Data Science Toolkit in 2021](https://towardsdatascience.com/nine-emerging-python-libraries-you-should-add-to-your-data-science-toolkit-in-2021-85ce3d239846)
 
 [Gradio](https://github.com/gradio-app/gradio)
