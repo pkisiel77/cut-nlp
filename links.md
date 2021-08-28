@@ -67,6 +67,10 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 [Extract Text From Images Using Tesseract OCR Engine and Python Choose from over 100 languages](https://towardsdatascience.com/how-to-extract-text-from-images-using-tesseract-ocr-engine-and-python-22934125fdd5)
 
 ## August 2021
+[Sentiment analysis with Hugging face](https://satish1v.medium.com/sentiment-analysis-with-hugging-face-4b080d0cf34d)
+
+[The Beginner’s Guide to Summarize Articles Using NLP](https://medium.com/mlearning-ai/summarize-articles-using-nlp-da1f5befe52b)
+
 [WHAT PROGRAMMING LANGUAGES ARE SUITABLE FOR NATURAL LANGUAGE PROCESSING?](https://medium.com/magnidata/what-programming-languages-are-suitable-for-natural-language-processing-be560c0366ef)
 
 [Nine Emerging Python Libraries You Should Add to Your Data Science Toolkit in 2021](https://towardsdatascience.com/nine-emerging-python-libraries-you-should-add-to-your-data-science-toolkit-in-2021-85ce3d239846)
