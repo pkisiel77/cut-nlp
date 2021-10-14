@@ -66,6 +66,9 @@ grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detect
 ## OCR
 [Extract Text From Images Using Tesseract OCR Engine and Python Choose from over 100 languages](https://towardsdatascience.com/how-to-extract-text-from-images-using-tesseract-ocr-engine-and-python-22934125fdd5)
 
+## October 2021
+[Parallel Sentence Mining in Python](https://towardsdatascience.com/parallel-sentence-mining-in-python-ad54fc909f85)
+
 ## August 2021
 [Sentiment analysis with Hugging face](https://satish1v.medium.com/sentiment-analysis-with-hugging-face-4b080d0cf34d)
 
