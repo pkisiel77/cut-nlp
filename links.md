@@ -6,6 +6,9 @@
 grep -q avx2 /proc/cpuinfo && echo AVX2 supported || echo No AVX2 support detected
 ```
 
+## NER 2022
+- https://a97041304.medium.com/huggingface-model-tokenizer-trainer-api-18b292ad6f14
+
 ## Speech To Text
 - https://www.youtube.com/watch?v=z-3ITXhRfKE
 
